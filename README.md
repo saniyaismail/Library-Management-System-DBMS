@@ -47,5 +47,4 @@ MySQL Database
 
 MySQL Connector for Java (JDBC)
 
-Contributors
-Your Name - Saniya Ismail Kondkar
+Contributor- Saniya Ismail Kondkar
