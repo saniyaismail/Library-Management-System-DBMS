@@ -18,19 +18,33 @@ Download the MySQL JDBC Connector (mysql-connector-java.jar) and add it to your 
 Configuration:
 
 Update the database connection details in IMT2022128_library.java:
+
 USER: Your MySQL username.
+
 PASSWORD: Your MySQL password.
+
 DB_URL: JDBC URL for your MySQL database.
+
 How to Run
-Compile the Java program.
+
+Compile the Java program
+.
 Run the compiled program (IMT2022128_library.class).
+
 Usage
+
 When prompted, choose between Student (Press 1) or Librarian (Press 2) role.
+
 Students can view books, borrow, and return books.
+
 Librarians can add/remove students, add/remove books, and manage borrowed books.
+
 Dependencies
+
 Java SE Development Kit (JDK) 8 or higher
+
 MySQL Database
+
 MySQL Connector for Java (JDBC)
 
 Contributors
